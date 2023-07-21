@@ -4,4 +4,3 @@ env/
 venv/
 __pycache__/
 db.sqlite3
-blog-project/db.sqlite3
